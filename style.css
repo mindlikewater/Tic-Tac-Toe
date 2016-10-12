@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box; }
+
+h1 {
+  text-align: center; }
+
+.board {
+  max-width: 300px;
+  margin: 20px auto; }
+  .board .space {
+    border: 1px double black;
+    padding: 5px;
+    width: 100px;
+    height: 100px;
+    float: left;
+    background: lightblue;
+    transition: background 1.5s ease; }
+  .board .red {
+    background: red; }
+  .board .black {
+    background: black; }
