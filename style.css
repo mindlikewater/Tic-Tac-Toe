@@ -14,7 +14,7 @@ h1 {
     height: 100px;
     float: left;
     background: lightblue;
-    transition: background 1.5s ease; }
+    transition: background 2.5s ease; }
   .board .red {
     background: red; }
   .board .black {

@@ -25,7 +25,7 @@ h1 {
     border: 1px double black;
     padding: 5px;
     @include space(100px);
-    @include bg-transition(1.5s);
+    @include bg-transition(2.5s);
   }
   .red {
     background: red;
